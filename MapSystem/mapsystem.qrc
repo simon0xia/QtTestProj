@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MapSystem">
+        <file>Resources/logo.png</file>
+    </qresource>
+</RCC>

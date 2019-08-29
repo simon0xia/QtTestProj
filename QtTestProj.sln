@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChangeLayout", "ChangeLayout\ChangeLayout.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MapSystem", "MapSystem\MapSystem.vcxproj", "{B63AA3A3-D71A-49B5-B7B6-DC1181529ACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -12,9 +14,11 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.ActiveCfg = Debug|x64
-		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.Build.0 = Debug|x64
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.ActiveCfg = Release|x64
-		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.Build.0 = Release|x64
+		{B63AA3A3-D71A-49B5-B7B6-DC1181529ACC}.Debug|x64.ActiveCfg = Debug|x64
+		{B63AA3A3-D71A-49B5-B7B6-DC1181529ACC}.Debug|x64.Build.0 = Debug|x64
+		{B63AA3A3-D71A-49B5-B7B6-DC1181529ACC}.Release|x64.ActiveCfg = Release|x64
+		{B63AA3A3-D71A-49B5-B7B6-DC1181529ACC}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
